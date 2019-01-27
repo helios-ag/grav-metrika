@@ -46,6 +46,17 @@ form:
       validate:
         type: bool
 
+    useWebVisor20:
+      type: toggle
+      label: Use WebVisor 2.0
+      hightlight: 1
+      default: 1
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
+
     id:
       type: text
       size: medium
