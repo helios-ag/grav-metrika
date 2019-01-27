@@ -1,4 +1,5 @@
 enabled: true
 id: ''
 webvisor: true
+useWebVisor20: true
 hash: true
