@@ -29,6 +29,7 @@ You should now have all the plugin files under
   id: ''
   hash: true # address line hash tracking
   webvisor: true # enable webvisor
+  useWebVisor20: true # enable webvisor 2.0
 ```
 
 If you need to change any value, then the best process is to copy the [metrika.yaml](metrika.yaml) file into your `users/config/plugins/` folder (create it if it doesn't exist), and then modify there. This will override the default settings.
